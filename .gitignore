@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+env/
+
+# Streamlit artifacts
+.streamlit/
+
+# Embeddings / DB
+rag/embeddings/
+rag/*.db
+rag/*.json
+chromadb/
+
+# Local config
+.env
+*.env
+
+# Logs
+*.log
+
+# OS misc
+.DS_Store
+Thumbs.db

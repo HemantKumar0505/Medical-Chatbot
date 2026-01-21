@@ -1,0 +1,12 @@
+streamlit==1.53.0
+python-dotenv
+google-genai==1.59.0
+langchain==1.2.6
+langchain-core
+langchain-google-genai
+chromadb==0.4.24
+pydantic==2.6.4
+pydantic-core
+tiktoken
+numpy
+streamlit-lottie

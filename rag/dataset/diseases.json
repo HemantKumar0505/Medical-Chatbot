@@ -1,0 +1,559 @@
+[
+  {
+    "condition": "Heart Attack (Myocardial Infarction)",
+    "symptoms": [
+      "chest pain",
+      "radiating pain to left arm or jaw",
+      "shortness of breath",
+      "sweating",
+      "nausea"
+    ],
+    "causes": [
+      "coronary artery blockage",
+      "plaque rupture"
+    ],
+    "risk_factors": [
+      "high blood pressure",
+      "smoking",
+      "diabetes",
+      "high cholesterol",
+      "family history"
+    ],
+    "emergency_signs": [
+      "severe chest pain",
+      "breathing difficulty",
+      "loss of consciousness"
+    ],
+    "when_to_see_doctor": [
+      "symptoms persisting over 5 minutes",
+      "severe chest discomfort",
+      "sudden breathlessness"
+    ],
+    "self_care": [
+      "seek emergency care immediately"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Hypertension",
+    "symptoms": [
+      "headache",
+      "dizziness",
+      "blurred vision",
+      "nosebleeds"
+    ],
+    "causes": [
+      "genetics",
+      "high salt intake",
+      "stress"
+    ],
+    "risk_factors": [
+      "obesity",
+      "age over 40",
+      "family history"
+    ],
+    "emergency_signs": [
+      "severe headache",
+      "vision loss",
+      "chest pain"
+    ],
+    "when_to_see_doctor": [
+      "persistent high readings",
+      "severe headaches"
+    ],
+    "self_care": [
+      "reduce salt intake",
+      "exercise regularly"
+    ],
+    "source": "CDC"
+  },
+  {
+    "condition": "Asthma",
+    "symptoms": [
+      "wheezing",
+      "shortness of breath",
+      "coughing",
+      "chest tightness"
+    ],
+    "causes": [
+      "airway inflammation",
+      "allergens"
+    ],
+    "risk_factors": [
+      "family history",
+      "allergy history"
+    ],
+    "emergency_signs": [
+      "severe breathlessness",
+      "cyanosis"
+    ],
+    "when_to_see_doctor": [
+      "frequent attacks",
+      "symptoms worsen"
+    ],
+    "self_care": [
+      "avoid triggers"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Pneumonia",
+    "symptoms": [
+      "fever",
+      "cough with phlegm",
+      "shortness of breath",
+      "chest pain"
+    ],
+    "causes": [
+      "bacterial infection",
+      "viral infection"
+    ],
+    "risk_factors": [
+      "smoking",
+      "age over 65"
+    ],
+    "emergency_signs": [
+      "severe breathing difficulty",
+      "bluish lips"
+    ],
+    "when_to_see_doctor": [
+      "persistent fever above 3 days",
+      "worsening cough"
+    ],
+    "self_care": [
+      "rest",
+      "stay hydrated"
+    ],
+    "source": "WHO"
+  },
+  {
+    "condition": "Dengue Fever",
+    "symptoms": [
+      "high fever",
+      "joint pain",
+      "rash",
+      "headache"
+    ],
+    "causes": [
+      "mosquito-borne virus"
+    ],
+    "risk_factors": [
+      "tropical region residence"
+    ],
+    "emergency_signs": [
+      "bleeding",
+      "severe abdominal pain"
+    ],
+    "when_to_see_doctor": [
+      "fever lasting more than 2 days",
+      "bleeding gums"
+    ],
+    "self_care": [
+      "hydration",
+      "rest"
+    ],
+    "source": "WHO"
+  },
+  {
+    "condition": "Malaria",
+    "symptoms": [
+      "fever",
+      "chills",
+      "sweating",
+      "fatigue"
+    ],
+    "causes": [
+      "plasmodium parasite via mosquito"
+    ],
+    "risk_factors": [
+      "travel to endemic region"
+    ],
+    "emergency_signs": [
+      "severe anemia",
+      "organ failure"
+    ],
+    "when_to_see_doctor": [
+      "fever after travel",
+      "persistent chills"
+    ],
+    "self_care": [
+      "seek immediate medical testing"
+    ],
+    "source": "CDC"
+  },
+  {
+    "condition": "COVID-19",
+    "symptoms": [
+      "fever",
+      "dry cough",
+      "tiredness",
+      "loss of smell"
+    ],
+    "causes": [
+      "SARS-CoV-2 virus"
+    ],
+    "risk_factors": [
+      "age",
+      "immune disorders"
+    ],
+    "emergency_signs": [
+      "difficulty breathing",
+      "chest pressure"
+    ],
+    "when_to_see_doctor": [
+      "persistent fever",
+      "breathing trouble"
+    ],
+    "self_care": [
+      "isolation",
+      "hydration"
+    ],
+    "source": "WHO"
+  },
+  {
+    "condition": "Influenza (Flu)",
+    "symptoms": [
+      "fever",
+      "body aches",
+      "sore throat",
+      "runny nose"
+    ],
+    "causes": [
+      "influenza virus"
+    ],
+    "risk_factors": [
+      "pregnancy",
+      "age under 5"
+    ],
+    "emergency_signs": [
+      "difficulty breathing",
+      "chest pain"
+    ],
+    "when_to_see_doctor": [
+      "symptoms lasting > 3 days",
+      "high fever"
+    ],
+    "self_care": [
+      "fluids",
+      "rest"
+    ],
+    "source": "CDC"
+  },
+  {
+    "condition": "Migraine",
+    "symptoms": [
+      "throbbing headache",
+      "nausea",
+      "light sensitivity",
+      "visual aura"
+    ],
+    "causes": [
+      "neurological sensitivity"
+    ],
+    "risk_factors": [
+      "stress",
+      "hormonal changes"
+    ],
+    "emergency_signs": [
+      "sudden worst headache",
+      "weakness"
+    ],
+    "when_to_see_doctor": [
+      "headaches worsening",
+      "not relieved with rest"
+    ],
+    "self_care": [
+      "dark quiet room",
+      "hydration"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Stroke",
+    "symptoms": [
+      "sudden weakness",
+      "facial droop",
+      "speech difficulty",
+      "confusion"
+    ],
+    "causes": [
+      "blocked blood vessel",
+      "brain bleed"
+    ],
+    "risk_factors": [
+      "hypertension",
+      "diabetes"
+    ],
+    "emergency_signs": [
+      "one-sided weakness",
+      "loss of speech"
+    ],
+    "when_to_see_doctor": [
+      "any sudden neurological symptom"
+    ],
+    "self_care": [
+      "call emergency services immediately"
+    ],
+    "source": "WHO"
+  },
+  {
+    "condition": "GERD (Acid Reflux)",
+    "symptoms": [
+      "heartburn",
+      "chest burning",
+      "regurgitation"
+    ],
+    "causes": [
+      "weak esophageal sphincter"
+    ],
+    "risk_factors": [
+      "obesity",
+      "smoking"
+    ],
+    "emergency_signs": [
+      "vomiting blood",
+      "severe chest pain"
+    ],
+    "when_to_see_doctor": [
+      "pain persists daily"
+    ],
+    "self_care": [
+      "avoid trigger foods",
+      "eat small meals"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Gastritis",
+    "symptoms": [
+      "stomach pain",
+      "nausea",
+      "bloating"
+    ],
+    "causes": [
+      "H. pylori infection",
+      "alcohol"
+    ],
+    "risk_factors": [
+      "prolonged NSAID use"
+    ],
+    "emergency_signs": [
+      "bloody stools",
+      "vomiting blood"
+    ],
+    "when_to_see_doctor": [
+      "symptoms lasting weeks"
+    ],
+    "self_care": [
+      "avoid spicy foods"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Anemia",
+    "symptoms": [
+      "fatigue",
+      "pale skin",
+      "shortness of breath"
+    ],
+    "causes": [
+      "iron deficiency",
+      "blood loss"
+    ],
+    "risk_factors": [
+      "poor diet",
+      "menstruation"
+    ],
+    "emergency_signs": [
+      "chest pain",
+      "fainting"
+    ],
+    "when_to_see_doctor": [
+      "persistent tiredness"
+    ],
+    "self_care": [
+      "iron-rich foods"
+    ],
+    "source": "CDC"
+  },
+  {
+    "condition": "Type 2 Diabetes",
+    "symptoms": [
+      "excess thirst",
+      "frequent urination",
+      "fatigue"
+    ],
+    "causes": [
+      "insulin resistance"
+    ],
+    "risk_factors": [
+      "obesity",
+      "family history"
+    ],
+    "emergency_signs": [
+      "confusion",
+      "ketone breath"
+    ],
+    "when_to_see_doctor": [
+      "symptoms last weeks"
+    ],
+    "self_care": [
+      "balanced diet",
+      "regular exercise"
+    ],
+    "source": "CDC"
+  },
+  {
+    "condition": "Hypothyroidism",
+    "symptoms": [
+      "fatigue",
+      "dry skin",
+      "weight gain"
+    ],
+    "causes": [
+      "autoimmune disease"
+    ],
+    "risk_factors": [
+      "female",
+      "age > 50"
+    ],
+    "emergency_signs": [
+      "extreme drowsiness"
+    ],
+    "when_to_see_doctor": [
+      "persistent tiredness"
+    ],
+    "self_care": [
+      "healthy diet"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Eczema",
+    "symptoms": [
+      "itchiness",
+      "dry skin",
+      "rash"
+    ],
+    "causes": [
+      "skin barrier dysfunction"
+    ],
+    "risk_factors": [
+      "family history"
+    ],
+    "emergency_signs": [
+      "infected skin"
+    ],
+    "when_to_see_doctor": [
+      "rash spreads"
+    ],
+    "self_care": [
+      "moisturize regularly"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Acne",
+    "symptoms": [
+      "pimples",
+      "blackheads",
+      "whiteheads"
+    ],
+    "causes": [
+      "oil gland blockage"
+    ],
+    "risk_factors": [
+      "hormones",
+      "stress"
+    ],
+    "emergency_signs": [
+      "severe pain"
+    ],
+    "when_to_see_doctor": [
+      "scarring occurs"
+    ],
+    "self_care": [
+      "wash gently",
+      "avoid touching face"
+    ],
+    "source": "Mayo Clinic"
+  },
+  {
+    "condition": "Osteoarthritis",
+    "symptoms": [
+      "joint pain",
+      "stiffness",
+      "reduced range of motion"
+    ],
+    "causes": [
+      "cartilage breakdown"
+    ],
+    "risk_factors": [
+      "age",
+      "obesity"
+    ],
+    "emergency_signs": [
+      "locked joint"
+    ],
+    "when_to_see_doctor": [
+      "persistent pain"
+    ],
+    "self_care": [
+      "gentle exercise"
+    ],
+    "source": "CDC"
+  },
+  {
+    "condition": "Obesity",
+    "symptoms": [
+      "excess body weight",
+      "fatigue",
+      "breathlessness"
+    ],
+    "causes": [
+      "poor diet",
+      "low activity"
+    ],
+    "risk_factors": [
+      "genetics",
+      "sedentary lifestyle"
+    ],
+    "emergency_signs": [
+      "chest pain"
+    ],
+    "when_to_see_doctor": [
+      "BMI over 30"
+    ],
+    "self_care": [
+      "exercise daily",
+      "reduce sugar intake"
+    ],
+    "source": "WHO"
+  },
+  {
+    "condition": "Chronic Fatigue Syndrome (CFS)",
+    "symptoms": [
+      "persistent fatigue",
+      "unrefreshing sleep",
+      "dizziness",
+      "memory issues"
+    ],
+    "causes": [
+      "unknown",
+      "viral triggers"
+    ],
+    "risk_factors": [
+      "female",
+      "age 40-60"
+    ],
+    "emergency_signs": [],
+    "when_to_see_doctor": [
+      "symptoms lasting > 6 months"
+    ],
+    "self_care": [
+      "pacing activity",
+      "sleep hygiene"
+    ],
+    "source": "CDC"
+  }
+]
