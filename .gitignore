@@ -1,29 +1,44 @@
-# Python
+# --- Python Bytecode ---
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual env
+# --- Virtual Environments ---
 venv/
 env/
+.venv/
 
-# Streamlit artifacts
-.streamlit/
+# --- Editor / IDE ---
+.vscode/
+.idea/
 
-# Embeddings / DB
-rag/embeddings/
-rag/*.db
-rag/*.json
-chromadb/
+# --- OS Files ---
+.DS_Store
+Thumbs.db
 
-# Local config
+# --- Logs ---
+*.log
+logs/
+
+# --- Local Config / Secrets (DO NOT PUSH) ---
 .env
 *.env
 
-# Logs
-*.log
+# --- Streamlit Local Artifacts ---
+.streamlit/
 
-# OS misc
-.DS_Store
-Thumbs.db
+# --- Cache / Build Artifacts ---
+dist/
+build/
+*.egg-info/
+*.egg
+
+# --- Chroma / Vector DB (WRITE MODE FOLDERS) ---
+chromadb/
+tmp_chroma/
+cache/
+
+# --- OPTIONAL ---
+.ipynb_checkpoints/
+
